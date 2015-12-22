@@ -1,5 +1,17 @@
 #!/usr/bin/python
 
+"""
+
+Using Database with Python - Cousera
+
+Parsing raw email headers to obtain organization email domains
+and place them into a database with their appearance count.
+
+Author: Adrian Arumugam (apa@moogzy.net)
+Date: 23-12-2015
+
+"""
+
 import urllib
 import re
 import sqlite3
