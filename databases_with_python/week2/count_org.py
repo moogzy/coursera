@@ -2,7 +2,7 @@
 
 """
 
-Using Database with Python - Cousera
+Using Database with Python - Coursera
 
 Parsing raw email headers to obtain organization email domains
 and place them into a database with their appearance count.
